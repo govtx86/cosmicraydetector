@@ -18,7 +18,7 @@ func main() {
 			fmt.Println("Cosmic ray detected!!!")
 			break
 		} else {
-			fmt.Println("No comsmic rays detected...")
+			fmt.Println("No cosmic rays detected...")
 		}
 		time.Sleep(3 * time.Second)
 	}
